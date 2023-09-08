@@ -3,3 +3,11 @@
 /build/
 /build/classes/java/main/
 /build/classes/java/test/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
